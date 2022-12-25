@@ -1,0 +1,38 @@
+.jumbotron{
+    background-color: #e2edff;
+   padding-top: 90px;
+}
+
+.jumbotron img{
+    width: 200px;
+    height: 200px;
+}
+
+
+#project{
+    background-color: #e2edff;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+#about{
+    padding-top: 80px;
+}
+
+#project{
+    padding-top: 80px;
+}
+
+#contact{
+    padding-top: 80px;
+}
